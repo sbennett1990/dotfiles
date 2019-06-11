@@ -1,0 +1,11 @@
+[user]
+	name = Scott Bennett
+	email = scottb@fastmail.com
+[core]
+	excludesfile = /home/scott/.gitignore_global
+[alias]
+	b = branch
+	br = branch
+	st = status
+	unstage = reset HEAD --
+	discard = checkout --
